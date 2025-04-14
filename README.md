@@ -1,6 +1,7 @@
 # BRD25-DD
 Big Red Data 2025 Competition - DA Ducklings
 
+![BANNER!](banner.png)
 
 ### Sam's Fans Restructuring Year-End Campaign
 
@@ -17,7 +18,7 @@ Big Red Data 2025 Competition - DA Ducklings
 ### Quick Links
 
 + Presentation Slides: https://www.canva.com/design/DAGkXPLCdzQ/Ly5cuvj6OLNwDTd5tU681A/edit?utm_content=DAGkXPLCdzQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
-+ Full Report: Data_Expo2.html
++ Full Report: ![REPORT!](Data_Expo2.html)
 + Competition Page: ?
 
 
